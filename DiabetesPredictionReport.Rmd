@@ -11,7 +11,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning = FALSE)
 
 ```
-This project is the second exercice of the HarvardX: PH125.9x Data Science Capstone project course. Each student has to freely choose a dataset, define the target of the project, apply different machine learning techniques and properly communicate the process and insights gained from the dataset analysis.  
+This project is the second exercice of the HarvardX: PH125.9x Data Science Capstone course. Each student has to freely choose a dataset, define the target of the project, apply different machine learning techniques and properly communicate the process and insights gained from the dataset analysis.  
 
 Dedicated to my loved children Oriol and Maria, which well deserved more attention from my side while I was passionately inmmersed with this Harvard  Professional Certificate Program in Data Science during the 2020 lockdown in The Netherlands.  
 \     
